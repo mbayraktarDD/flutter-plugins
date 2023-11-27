@@ -1,6 +1,6 @@
 <manifest
   package="cachet.plugins.health" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" >
 
-    <uses-sdk tools:overrideLibrary="cachet.plugins.health, androidx.health.connect.client" android:minSdkVersion="28" android:maxSdkVersion="33"/>
+    <uses-sdk tools:overrideLibrary="cachet.plugins.health, androidx.health.connect.client"  android:minSdkVersion="28" android:maxSdkVersion="33"/>
 
 </manifest>
