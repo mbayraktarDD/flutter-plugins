@@ -2,12 +2,12 @@
     package="cachet.plugins.example_app">
 
     <!-- Check whether Health Connect is installed or not -->
-    <queries>
-        <package android:name="com.google.android.apps.healthdata" />
-        <intent>
-            <action android:name="androidx.health.ACTION_SHOW_PERMISSIONS_RATIONALE" />
-        </intent>
-    </queries>
+<!--    <queries>-->
+<!--        <package android:name="com.google.android.apps.healthdata" />-->
+<!--        <intent>-->
+<!--            <action android:name="androidx.health.ACTION_SHOW_PERMISSIONS_RATIONALE" />-->
+<!--        </intent>-->
+<!--    </queries>-->
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
          In most cases you can leave this as-is, but you if you want to provide
