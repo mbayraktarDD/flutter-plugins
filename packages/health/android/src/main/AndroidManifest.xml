@@ -2,5 +2,6 @@
   package="cachet.plugins.health" xmlns:tools="http://schemas.android.com/tools">
     <uses-sdk
         android:maxSdkVersion="33"
-        android:minSdkVersion="28" />
+        android:minSdkVersion="28"
+        tools:ignore="GradleOverrides" />
 </manifest>
